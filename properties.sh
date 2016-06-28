@@ -1,0 +1,11 @@
+export PROJECT=test_shruti
+export BUCKET=LoadTesting_test_shruti
+export jmxFile=tothenew
+export OutputFile=abcd
+export AMI=ami-fce3c696
+export InstanceType=t2.micro
+export Subnet=subnet-a28a3dfa
+export SecurityGroup=sg-ee751395
+export KeyPairName=key_Gunjan
+export NoOfInstances=1
+export URL=https://github.com/gunjan-lal/jenkins_masterslave.git

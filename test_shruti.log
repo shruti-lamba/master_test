@@ -1,0 +1,140 @@
+Hit https://apt.dockerproject.org ubuntu-trusty InRelease
+Hit http://security.ubuntu.com trusty-security InRelease
+Ign http://extras.ubuntu.com trusty InRelease
+Hit https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages
+Ign http://in.archive.ubuntu.com trusty InRelease
+Hit http://ppa.launchpad.net trusty InRelease
+Hit http://security.ubuntu.com trusty-security/main Sources
+Hit http://extras.ubuntu.com trusty Release.gpg
+Hit http://in.archive.ubuntu.com trusty-updates InRelease
+Hit http://security.ubuntu.com trusty-security/restricted Sources
+Hit http://extras.ubuntu.com trusty Release
+Hit http://ppa.launchpad.net trusty InRelease
+Ign http://download.draios.com stable-amd64/ InRelease
+Get:1 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_IN
+Ign http://apt.datadoghq.com stable InRelease
+Hit http://security.ubuntu.com trusty-security/universe Sources
+Hit http://apt.datadoghq.com stable Release.gpg
+Hit http://extras.ubuntu.com trusty/main Sources
+Hit http://in.archive.ubuntu.com trusty-backports InRelease
+Hit http://apt.datadoghq.com stable Release
+Hit http://ppa.launchpad.net trusty InRelease
+Hit https://repo.varnish-cache.org trusty InRelease
+Hit http://apt.datadoghq.com stable/main amd64 Packages
+Hit http://apt.datadoghq.com stable/main i386 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse Sources
+Hit http://download.draios.com stable-amd64/ Release.gpg
+Hit http://extras.ubuntu.com trusty/main amd64 Packages
+Hit https://repo.varnish-cache.org trusty/varnish-4.1 amd64 Packages
+Hit http://in.archive.ubuntu.com trusty Release.gpg
+Hit http://ppa.launchpad.net trusty InRelease
+Hit http://security.ubuntu.com trusty-security/main amd64 Packages
+Hit http://extras.ubuntu.com trusty/main i386 Packages
+Hit http://security.ubuntu.com trusty-security/restricted amd64 Packages
+Hit https://repo.varnish-cache.org trusty/varnish-4.1 i386 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/main Sources
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Hit http://download.draios.com stable-amd64/ Release
+Hit http://security.ubuntu.com trusty-security/universe amd64 Packages
+Get:2 https://repo.varnish-cache.org trusty/varnish-4.1 Translation-en_IN
+Hit http://in.archive.ubuntu.com trusty-updates/restricted Sources
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse amd64 Packages
+Ign http://pkg.jenkins-ci.org binary/ InRelease
+Hit http://download.draios.com stable-amd64/ Packages
+Hit http://in.archive.ubuntu.com trusty-updates/universe Sources
+Hit http://security.ubuntu.com trusty-security/main i386 Packages
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://security.ubuntu.com trusty-security/restricted i386 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse Sources
+Hit http://pkg.jenkins-ci.org binary/ Release.gpg
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/universe i386 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/main amd64 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse i386 Packages
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://pkg.jenkins-ci.org binary/ Release
+Hit http://security.ubuntu.com trusty-security/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/restricted amd64 Packages
+Hit http://security.ubuntu.com trusty-security/multiverse Translation-en
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/universe amd64 Packages
+Hit http://pkg.jenkins-ci.org binary/ Packages
+Hit http://security.ubuntu.com trusty-security/restricted Translation-en
+Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en_IN
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en
+Hit http://security.ubuntu.com trusty-security/universe Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse amd64 Packages
+Ign https://repo.varnish-cache.org trusty/varnish-4.1 Translation-en_IN
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/main i386 Packages
+Ign https://repo.varnish-cache.org trusty/varnish-4.1 Translation-en
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/restricted i386 Packages
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/universe i386 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse i386 Packages
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://in.archive.ubuntu.com trusty-updates/main Translation-en
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/restricted Translation-en
+Hit http://in.archive.ubuntu.com trusty-updates/universe Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/main Sources
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Sources
+Hit http://in.archive.ubuntu.com trusty-backports/universe Sources
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Sources
+Hit http://in.archive.ubuntu.com trusty-backports/main amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/restricted amd64 Packages
+Ign http://extras.ubuntu.com trusty/main Translation-en_IN
+Hit http://in.archive.ubuntu.com trusty-backports/universe amd64 Packages
+Ign http://extras.ubuntu.com trusty/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/main i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/restricted i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/universe i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse i386 Packages
+Ign http://pkg.jenkins-ci.org binary/ Translation-en_IN
+Hit http://in.archive.ubuntu.com trusty-backports/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Translation-en
+Ign http://apt.datadoghq.com stable/main Translation-en_IN
+Ign http://pkg.jenkins-ci.org binary/ Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/universe Translation-en
+Ign http://download.draios.com stable-amd64/ Translation-en_IN
+Hit http://in.archive.ubuntu.com trusty Release
+Ign http://apt.datadoghq.com stable/main Translation-en
+Hit http://in.archive.ubuntu.com trusty/main Sources
+Ign http://download.draios.com stable-amd64/ Translation-en
+Hit http://in.archive.ubuntu.com trusty/restricted Sources
+Hit http://in.archive.ubuntu.com trusty/universe Sources
+Hit http://in.archive.ubuntu.com trusty/multiverse Sources
+Hit http://in.archive.ubuntu.com trusty/main amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/restricted amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/universe amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/multiverse amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/main i386 Packages
+Hit http://in.archive.ubuntu.com trusty/restricted i386 Packages
+Hit http://in.archive.ubuntu.com trusty/universe i386 Packages
+Hit http://in.archive.ubuntu.com trusty/multiverse i386 Packages
+Hit http://in.archive.ubuntu.com trusty/main Translation-en
+Hit http://in.archive.ubuntu.com trusty/multiverse Translation-en
+Hit http://in.archive.ubuntu.com trusty/restricted Translation-en
+Hit http://in.archive.ubuntu.com trusty/universe Translation-en
+Ign http://in.archive.ubuntu.com trusty/main Translation-en_IN
+Ign http://in.archive.ubuntu.com trusty/multiverse Translation-en_IN
+Ign http://in.archive.ubuntu.com trusty/restricted Translation-en_IN
+Ign http://in.archive.ubuntu.com trusty/universe Translation-en_IN
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+awscli is already the newest version.
+The following packages were automatically installed and are no longer required:
+  authbind libcommons-dbcp-java libcommons-pool-java libecj-java
+  libgeronimo-jta-1.1-spec-java libtomcat7-java tomcat7-common
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 405 not upgraded.
+AWS CLI installed
+Enter Profile (leave empty for 'default'): Enter Access key: Enter Secret Access Key: Enter region: Enter output type (text/json): 

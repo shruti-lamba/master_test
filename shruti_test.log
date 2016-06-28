@@ -1,0 +1,236 @@
+Ign http://in.archive.ubuntu.com trusty InRelease
+Ign http://download.draios.com stable-amd64/ InRelease
+Get:1 http://in.archive.ubuntu.com trusty-updates InRelease [65.9 kB]
+Get:2 http://download.draios.com stable-amd64/ Release.gpg [490 B]
+Hit http://in.archive.ubuntu.com trusty-backports InRelease
+Hit http://in.archive.ubuntu.com trusty Release.gpg
+Get:3 http://download.draios.com stable-amd64/ Release [756 B]
+Get:4 http://download.draios.com stable-amd64/ Packages [1,895 B]
+Get:5 http://in.archive.ubuntu.com trusty-updates/main Sources [277 kB]
+Hit https://repo.varnish-cache.org trusty InRelease
+Get:6 http://in.archive.ubuntu.com trusty-updates/restricted Sources [5,352 B]
+Hit https://repo.varnish-cache.org trusty/varnish-4.1 amd64 Packages
+Get:7 http://in.archive.ubuntu.com trusty-updates/universe Sources [157 kB]
+Hit https://repo.varnish-cache.org trusty/varnish-4.1 i386 Packages
+Get:8 https://repo.varnish-cache.org trusty/varnish-4.1 Translation-en_IN
+Get:9 http://in.archive.ubuntu.com trusty-updates/multiverse Sources [5,936 B]
+Ign http://extras.ubuntu.com trusty InRelease
+Ign http://apt.datadoghq.com stable InRelease
+Hit http://apt.datadoghq.com stable Release.gpg
+Get:10 http://extras.ubuntu.com trusty Release.gpg [72 B]
+Hit http://apt.datadoghq.com stable Release
+Hit https://apt.dockerproject.org ubuntu-trusty InRelease
+Ign https://repo.varnish-cache.org trusty/varnish-4.1 Translation-en_IN
+Hit http://apt.datadoghq.com stable/main amd64 Packages
+Hit http://ppa.launchpad.net trusty InRelease
+Hit http://apt.datadoghq.com stable/main i386 Packages
+Hit https://apt.dockerproject.org ubuntu-trusty/main amd64 Packages
+Hit http://extras.ubuntu.com trusty Release
+Get:11 https://apt.dockerproject.org ubuntu-trusty/main Translation-en_IN
+Ign http://download.draios.com stable-amd64/ Translation-en_IN
+Ign https://repo.varnish-cache.org trusty/varnish-4.1 Translation-en
+Ign http://pkg.jenkins-ci.org binary/ InRelease
+Hit http://extras.ubuntu.com trusty/main Sources
+Hit http://ppa.launchpad.net trusty InRelease
+Hit http://extras.ubuntu.com trusty/main amd64 Packages
+Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en_IN
+Get:12 http://pkg.jenkins-ci.org binary/ Release.gpg [181 B]
+Ign http://download.draios.com stable-amd64/ Translation-en
+Ign https://apt.dockerproject.org ubuntu-trusty/main Translation-en
+Hit http://ppa.launchpad.net trusty InRelease
+Hit http://extras.ubuntu.com trusty/main i386 Packages
+Get:13 http://in.archive.ubuntu.com trusty-updates/main amd64 Packages [789 kB]
+Hit http://ppa.launchpad.net trusty InRelease
+Get:14 http://pkg.jenkins-ci.org binary/ Release [2,042 B]
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Get:15 http://pkg.jenkins-ci.org binary/ Packages [652 B]
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Get:16 http://in.archive.ubuntu.com trusty-updates/restricted amd64 Packages [15.9 kB]
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Ign http://apt.datadoghq.com stable/main Translation-en_IN
+Ign http://apt.datadoghq.com stable/main Translation-en
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Ign http://extras.ubuntu.com trusty/main Translation-en_IN
+Get:17 http://in.archive.ubuntu.com trusty-updates/universe amd64 Packages [362 kB]
+Ign http://extras.ubuntu.com trusty/main Translation-en
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Get:18 http://in.archive.ubuntu.com trusty-updates/multiverse amd64 Packages [13.2 kB]
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Hit http://ppa.launchpad.net trusty/main amd64 Packages
+Hit http://ppa.launchpad.net trusty/main i386 Packages
+Hit http://ppa.launchpad.net trusty/main Translation-en
+Ign http://pkg.jenkins-ci.org binary/ Translation-en_IN
+Get:19 http://in.archive.ubuntu.com trusty-updates/main i386 Packages [755 kB]
+Ign http://pkg.jenkins-ci.org binary/ Translation-en
+Get:20 http://in.archive.ubuntu.com trusty-updates/restricted i386 Packages [15.6 kB]
+Get:21 http://in.archive.ubuntu.com trusty-updates/universe i386 Packages [363 kB]
+Get:22 http://in.archive.ubuntu.com trusty-updates/multiverse i386 Packages [13.6 kB]
+Get:23 http://in.archive.ubuntu.com trusty-updates/main Translation-en [396 kB]
+Get:24 http://in.archive.ubuntu.com trusty-updates/multiverse Translation-en [7,227 B]
+Get:25 http://in.archive.ubuntu.com trusty-updates/restricted Translation-en [3,699 B]
+Get:26 http://in.archive.ubuntu.com trusty-updates/universe Translation-en [190 kB]
+Hit http://in.archive.ubuntu.com trusty-backports/main Sources
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Sources
+Hit http://in.archive.ubuntu.com trusty-backports/universe Sources
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Sources
+Hit http://in.archive.ubuntu.com trusty-backports/main amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/restricted amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/universe amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse amd64 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/main i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/restricted i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/universe i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse i386 Packages
+Hit http://in.archive.ubuntu.com trusty-backports/main Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Translation-en
+Hit http://in.archive.ubuntu.com trusty-backports/universe Translation-en
+Hit http://in.archive.ubuntu.com trusty Release
+Hit http://in.archive.ubuntu.com trusty/main Sources
+Hit http://in.archive.ubuntu.com trusty/restricted Sources
+Hit http://in.archive.ubuntu.com trusty/universe Sources
+Hit http://in.archive.ubuntu.com trusty/multiverse Sources
+Hit http://in.archive.ubuntu.com trusty/main amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/restricted amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/universe amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/multiverse amd64 Packages
+Hit http://in.archive.ubuntu.com trusty/main i386 Packages
+Hit http://in.archive.ubuntu.com trusty/restricted i386 Packages
+Hit http://in.archive.ubuntu.com trusty/universe i386 Packages
+Hit http://in.archive.ubuntu.com trusty/multiverse i386 Packages
+Hit http://in.archive.ubuntu.com trusty/main Translation-en
+Hit http://in.archive.ubuntu.com trusty/multiverse Translation-en
+Hit http://in.archive.ubuntu.com trusty/restricted Translation-en
+Hit http://in.archive.ubuntu.com trusty/universe Translation-en
+Ign http://in.archive.ubuntu.com trusty/main Translation-en_IN
+Ign http://in.archive.ubuntu.com trusty/multiverse Translation-en_IN
+Ign http://in.archive.ubuntu.com trusty/restricted Translation-en_IN
+Ign http://in.archive.ubuntu.com trusty/universe Translation-en_IN
+Get:27 http://security.ubuntu.com trusty-security InRelease [65.9 kB]
+Get:28 http://security.ubuntu.com trusty-security/main Sources [117 kB]
+Get:29 http://security.ubuntu.com trusty-security/restricted Sources [4,035 B]
+Get:30 http://security.ubuntu.com trusty-security/universe Sources [37.6 kB]
+Get:31 http://security.ubuntu.com trusty-security/multiverse Sources [2,757 B]
+Get:32 http://security.ubuntu.com trusty-security/main amd64 Packages [501 kB]
+Get:33 http://security.ubuntu.com trusty-security/restricted amd64 Packages [13.0 kB]
+Get:34 http://security.ubuntu.com trusty-security/universe amd64 Packages [130 kB]
+Get:35 http://security.ubuntu.com trusty-security/multiverse amd64 Packages [4,989 B]
+Get:36 http://security.ubuntu.com trusty-security/main i386 Packages [468 kB]
+Get:37 http://security.ubuntu.com trusty-security/restricted i386 Packages [12.7 kB]
+Get:38 http://security.ubuntu.com trusty-security/universe i386 Packages [130 kB]
+Get:39 http://security.ubuntu.com trusty-security/multiverse i386 Packages [5,170 B]
+Get:40 http://security.ubuntu.com trusty-security/main Translation-en [276 kB]
+Get:41 http://security.ubuntu.com trusty-security/multiverse Translation-en [2,570 B]
+Get:42 http://security.ubuntu.com trusty-security/restricted Translation-en [3,206 B]
+Get:43 http://security.ubuntu.com trusty-security/universe Translation-en [76.7 kB]
+Fetched 5,291 kB in 57s (92.2 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  authbind libcommons-dbcp-java libcommons-pool-java libecj-java
+  libgeronimo-jta-1.1-spec-java libtomcat7-java tomcat7-common
+Use 'apt-get autoremove' to remove them.
+The following extra packages will be installed:
+  docutils-common python3-bcdoc python3-botocore python3-colorama
+  python3-dateutil python3-docutils python3-jmespath python3-pil python3-ply
+  python3-pygments python3-roman python3-rsa
+Suggested packages:
+  texlive-latex-recommended texlive-latex-base texlive-lang-french
+  fonts-linuxlibertine ttf-linux-libertine docutils-doc python-pil-doc
+  python3-pil-dbg python-ply-doc ttf-bitstream-vera
+The following NEW packages will be installed:
+  awscli docutils-common python3-bcdoc python3-botocore python3-colorama
+  python3-dateutil python3-docutils python3-jmespath python3-pil python3-ply
+  python3-pygments python3-roman python3-rsa
+0 upgraded, 13 newly installed, 0 to remove and 405 not upgraded.
+Need to get 2,030 kB of archives.
+After this operation, 18.7 MB of additional disk space will be used.
+Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty/main python3-ply all 3.4-3ubuntu2 [44.8 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty/universe python3-jmespath all 0.2.1-1 [8,296 B]
+Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty/universe python3-dateutil all 2.0+dfsg1-1 [49.3 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/universe python3-botocore all 0.29.0+repack-2ubuntu0.1 [506 kB]
+Get:5 http://in.archive.ubuntu.com/ubuntu/ trusty/main python3-roman all 2.0.0-1 [7,836 B]
+Get:6 http://in.archive.ubuntu.com/ubuntu/ trusty/main docutils-common all 0.11-3 [143 kB]
+Get:7 http://in.archive.ubuntu.com/ubuntu/ trusty/main python3-docutils all 0.11-3 [347 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu/ trusty/universe python3-rsa all 3.1.2-1 [26.9 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/universe python3-colorama all 0.2.5-0.1ubuntu2 [12.0 kB]
+Get:10 http://in.archive.ubuntu.com/ubuntu/ trusty/universe python3-bcdoc all 0.12.0-2 [10.5 kB]
+Get:11 http://in.archive.ubuntu.com/ubuntu/ trusty/universe awscli all 1.2.9-2 [128 kB]
+Get:12 http://in.archive.ubuntu.com/ubuntu/ trusty/main python3-pil amd64 2.3.0-1ubuntu3 [281 kB]
+Get:13 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main python3-pygments all 1.6+dfsg-1ubuntu1.1 [465 kB]
+Fetched 2,030 kB in 14s (138 kB/s)
+Selecting previously unselected package python3-ply.
+(Reading database ... 219042 files and directories currently installed.)
+Preparing to unpack .../python3-ply_3.4-3ubuntu2_all.deb ...
+Unpacking python3-ply (3.4-3ubuntu2) ...
+Selecting previously unselected package python3-jmespath.
+Preparing to unpack .../python3-jmespath_0.2.1-1_all.deb ...
+Unpacking python3-jmespath (0.2.1-1) ...
+Selecting previously unselected package python3-dateutil.
+Preparing to unpack .../python3-dateutil_2.0+dfsg1-1_all.deb ...
+Unpacking python3-dateutil (2.0+dfsg1-1) ...
+Selecting previously unselected package python3-botocore.
+Preparing to unpack .../python3-botocore_0.29.0+repack-2ubuntu0.1_all.deb ...
+Unpacking python3-botocore (0.29.0+repack-2ubuntu0.1) ...
+Selecting previously unselected package python3-roman.
+Preparing to unpack .../python3-roman_2.0.0-1_all.deb ...
+Unpacking python3-roman (2.0.0-1) ...
+Selecting previously unselected package docutils-common.
+Preparing to unpack .../docutils-common_0.11-3_all.deb ...
+Unpacking docutils-common (0.11-3) ...
+Selecting previously unselected package python3-docutils.
+Preparing to unpack .../python3-docutils_0.11-3_all.deb ...
+Unpacking python3-docutils (0.11-3) ...
+Selecting previously unselected package python3-rsa.
+Preparing to unpack .../python3-rsa_3.1.2-1_all.deb ...
+Unpacking python3-rsa (3.1.2-1) ...
+Selecting previously unselected package python3-colorama.
+Preparing to unpack .../python3-colorama_0.2.5-0.1ubuntu2_all.deb ...
+Unpacking python3-colorama (0.2.5-0.1ubuntu2) ...
+Selecting previously unselected package python3-bcdoc.
+Preparing to unpack .../python3-bcdoc_0.12.0-2_all.deb ...
+Unpacking python3-bcdoc (0.12.0-2) ...
+Selecting previously unselected package awscli.
+Preparing to unpack .../awscli_1.2.9-2_all.deb ...
+Unpacking awscli (1.2.9-2) ...
+Selecting previously unselected package python3-pil.
+Preparing to unpack .../python3-pil_2.3.0-1ubuntu3_amd64.deb ...
+Unpacking python3-pil (2.3.0-1ubuntu3) ...
+Selecting previously unselected package python3-pygments.
+Preparing to unpack .../python3-pygments_1.6+dfsg-1ubuntu1.1_all.deb ...
+Unpacking python3-pygments (1.6+dfsg-1ubuntu1.1) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Processing triggers for shared-mime-info (1.2-0ubuntu3) ...
+Processing triggers for sgml-base (1.26+nmu4ubuntu1) ...
+Setting up python3-ply (3.4-3ubuntu2) ...
+Setting up python3-jmespath (0.2.1-1) ...
+Setting up python3-dateutil (2.0+dfsg1-1) ...
+Setting up python3-botocore (0.29.0+repack-2ubuntu0.1) ...
+Setting up python3-roman (2.0.0-1) ...
+Setting up docutils-common (0.11-3) ...
+Setting up python3-rsa (3.1.2-1) ...
+Setting up python3-colorama (0.2.5-0.1ubuntu2) ...
+Setting up python3-pil (2.3.0-1ubuntu3) ...
+Setting up python3-pygments (1.6+dfsg-1ubuntu1.1) ...
+Processing triggers for sgml-base (1.26+nmu4ubuntu1) ...
+Setting up python3-docutils (0.11-3) ...
+update-alternatives: using /usr/share/docutils/scripts/python3/rst-buildhtml to provide /usr/bin/rst-buildhtml (rst-buildhtml) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2html to provide /usr/bin/rst2html (rst2html) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2latex to provide /usr/bin/rst2latex (rst2latex) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2man to provide /usr/bin/rst2man (rst2man) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2odt to provide /usr/bin/rst2odt (rst2odt) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2odt_prepstyles to provide /usr/bin/rst2odt_prepstyles (rst2odt_prepstyles) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2pseudoxml to provide /usr/bin/rst2pseudoxml (rst2pseudoxml) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2s5 to provide /usr/bin/rst2s5 (rst2s5) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2xetex to provide /usr/bin/rst2xetex (rst2xetex) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rst2xml to provide /usr/bin/rst2xml (rst2xml) in auto mode
+update-alternatives: using /usr/share/docutils/scripts/python3/rstpep2html to provide /usr/bin/rstpep2html (rstpep2html) in auto mode
+Setting up python3-bcdoc (0.12.0-2) ...
+Setting up awscli (1.2.9-2) ...
+AWS CLI installed
+Enter Profile (leave empty for 'default'): Enter Access key: Enter Secret Access Key: Enter region: Enter output type (text/json): 
